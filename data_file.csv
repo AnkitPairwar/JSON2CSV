@@ -1,4 +1,4 @@
-userDept,userMobile,userName,userRoll,yearOfAdmission
-ECE,7979061755,Nirbhay,064,2017
-AEIE,9898989845,chaman kumar,69,2018
-ece,1234567890,carry,111,2020
+NAME,DEPT.,ROLL,MOBILE,YEAR OF ADM.
+Nirbhay,ECE,064,7979061755,2017
+chaman kumar,AEIE,69,9898989845,2018
+carry,ece,111,1234567890,2020
